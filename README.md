@@ -6,7 +6,7 @@ Commands TO Run
 
  -> npm run dev
 
- ################ 16-07-2025 ##################
+ ################ 16-07-2025 (Wednusday) ##################
 
  1. Setup a express server
  2. Bootstrap the application 
