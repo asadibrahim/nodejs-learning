@@ -3,6 +3,7 @@ import { businesessIF, business_type } from "../types/business";
 import options from "./options";
 export const valid_type:business_type[] = ['e-commerce' , 'shipping'];
 
+//business model schema 
 const businessSchema = new mongoose.Schema<businesessIF>(
     {
         name: {type: String, required: true},

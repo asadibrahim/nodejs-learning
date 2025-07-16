@@ -15,3 +15,6 @@ Commands TO Run
  5. Created a folder structure 
  6. Setup type script for the project
  7. Setup keys to get .env values
+
+ ################ 17-07-2025 (Thursday) ##################
+ 1. Setup basic CRUD operations

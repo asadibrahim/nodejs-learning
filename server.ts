@@ -7,6 +7,7 @@ dotenv.config();
 
 const PORT = keys.port;
 
+//imdiately invoking function. A function which is wraped in (mode)()
 (   async () => {
     await bootstrap.intializer();
     app.listen(PORT, () => {
@@ -14,3 +15,5 @@ const PORT = keys.port;
     });
     }
 )()
+
+
